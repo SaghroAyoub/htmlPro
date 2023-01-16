@@ -42,8 +42,7 @@ li>a {
     font-weight: 500;
 }
 
-
-/* li::after {
+li::after {
     content: '';
     width: 0rem;
     height: 0.15rem;
@@ -56,4 +55,4 @@ li>a {
 
 li:hover::after {
     width: 2rem;
-} */
+}
